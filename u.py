@@ -1158,4 +1158,6 @@ $ cd zarp
 $ chmod +x *
 $ python2 zarp.py
 
-[!] Necesario root correr con proot o tsu.""")
+[!] Necesario root correr con proot o tsu.
+
+chao""")
