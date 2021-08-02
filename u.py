@@ -61,7 +61,7 @@ print (BLUE+"""
 
 print (RED+"Autor: JsHack")
 print (RED+"You Tube : https://m.youtube.com/channel/UC-Kz94tNfH4ued-Ux1p9VWg")
-print (RED+"github   : https://github.com/jsh4ck")
+print (RED+"github   : https://github.com/jsh4ck <\< ")
 
 
 print (BLUE+"[1]: Herramientas DDoS")
