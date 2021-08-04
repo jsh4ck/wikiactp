@@ -140,6 +140,7 @@ $ python hammer.py -s [dirección ip] -t 135
 ejemplo:
 
 $ python hammer.py -s 123.45.67.89 -t 135""")
+
 if opcion=="2":
   os.system ("clear")
   print (RED+"""
